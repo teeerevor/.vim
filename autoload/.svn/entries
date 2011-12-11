@@ -1,0 +1,40 @@
+8
+
+dir
+16
+http://hooliosvn@svn.hoolio.net/hot/vim-settings/vim/autoload
+http://hooliosvn@svn.hoolio.net/hot
+
+
+
+2009-08-31T07:34:00.504257Z
+15
+hooliosvn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9394bfac-8a87-4197-9bd9-1841b65c5426
+
+rails.vim
+file
+
+
+
+
+2009-08-31T07:37:15.000000Z
+1515bea16e34be68ce998964ac4e409a
+2009-08-31T07:34:00.504257Z
+15
+hooliosvn
+
